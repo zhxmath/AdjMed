@@ -1,2 +1,3 @@
 # AdapMed
- adaptive mediation analysis
+Install R  package
+devtools::install_github("zhxmath/AdapMed")
