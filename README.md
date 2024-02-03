@@ -4,7 +4,7 @@ file "AdapMed_manual.pdf".
 ## Installation 
 To install from GitHub
 ```r
-## Install HIMA from GitHub
+## Install AdapMed from GitHub
 library(devtools)
 devtools::install_github("zhxmath/AdapMed")
 ```
