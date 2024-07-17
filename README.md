@@ -4,7 +4,7 @@ file "AdjMed_manual.pdf".
 ## Installation 
 To install from GitHub
 ```r
-## Install AdapMed from GitHub
+## Install AdjMed from GitHub
 library(devtools)
 devtools::install_github("zhxmath/AdjMed")
 ```
