@@ -1,4 +1,4 @@
-## AdapMed: Adaptive Mediation Analysis
+## AdjMed: Adjusted Mediation Analysis
 *AdjMed* is an R package for performing adjusted joint significance test and sobel-type confidence interval for mediation effect, where the user's manual is in the PDF
 file "AdjMed_manual.pdf".
 ## Installation 
